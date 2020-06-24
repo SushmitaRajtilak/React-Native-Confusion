@@ -11,7 +11,5 @@ export const ADD_LEADERS = 'ADD_LEADERS';
 export const LEADERS_FAILED = 'LEADERS_FAILED';
 export const POST_FAVORITE = 'POST_FAVORITE';
 export const ADD_FAVORITE = 'ADD_FAVORITE';
-
-//Comment Actionss
 export const ADD_COMMENT='ADD_COMMENT';
 export const POST_COMMENT='POST_COMMENT';
