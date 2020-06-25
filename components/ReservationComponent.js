@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Text, View, ScrollView, StyleSheet, Picker, Switch, Button } from 'react-native';
-import { Card } from 'react-native-elements';
 import DatePicker from 'react-native-datepicker'
 import { Text, View, StyleSheet, Picker, Switch, Button, Modal } from 'react-native';
 
