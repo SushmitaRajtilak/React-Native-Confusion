@@ -149,7 +149,7 @@ export const COMMENTS =
         dishId: 3,
         rating: 4,
         comment: "Ultimate, Reaching for the stars!",
-        author: "Ringo Starry",
+        author: "Ringo Stary",
         date: "2013-12-02T17:57:28.556094Z"
     },
     {
