@@ -16,11 +16,11 @@ const mapStateToProps = state => {
         favorites: state.favorites,
     }
 };
-
 const mapDispatchToProps = dispatch => ({
     postFavorite: (dishId) => dispatch(postFavorite(dishId)),
     postComment: (dishId, rating, author, comment) => dispatch(postComment(dishId, rating, author, comment)),
 });
+
 
 handleViewRef = ref => this.view = ref;
 
