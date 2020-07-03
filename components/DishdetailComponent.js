@@ -8,7 +8,6 @@ import * as Animatable from 'react-native-animatable';
 import { Text, View, ScrollView, FlatList, Modal, StyleSheet, Button, Alert, PanResponder } from 'react-native';
 
 
-
 const mapStateToProps = state => {
     return {
         dishes: state.dishes,
