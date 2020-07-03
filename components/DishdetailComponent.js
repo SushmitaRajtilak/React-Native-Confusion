@@ -20,7 +20,6 @@ const mapDispatchToProps = dispatch => ({
     postComment: (dishId, rating, author, comment) => dispatch(postComment(dishId, rating, author, comment)),
 });
 
-
 handleViewRef = ref => this.view = ref;
 
 const recognizeDrag = ({ moveX, moveY, dx, dy }) => {
